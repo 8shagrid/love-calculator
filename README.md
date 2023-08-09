@@ -12,7 +12,7 @@ Welcome to the Love Calculator project! This is a simple web application built w
 
 ## Demo
 
-You can try out the Love Calculator application by visiting the live demo [here](https://s.id/1ShyI). Enter your name and your crush's name, then click the "Calculate" button to see the magic happen!
+You can try out the Love Calculator application by visiting the live demo [here](https://love-calculator-2aocbmw6xyypfevxlky68w.streamlit.app/). Enter your name and your crush's name, then click the "Calculate" button to see the magic happen!
 
 ## Screenshots
 
