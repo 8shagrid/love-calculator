@@ -23,7 +23,7 @@ You can try out the Love Calculator application by visiting the live demo [here]
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 ```
-cd Love-Calculator
+cd love-calculator
 ```
 3. Install the required dependencies using pip.
 ```
