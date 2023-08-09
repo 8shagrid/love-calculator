@@ -29,10 +29,10 @@ cd Love-Calculator
 ```
 pip install -r requirements.txt
 ```
-5. Run the application.
+4. Run the application.
 ```
 streamlit run app.py
 ```
-6. Access the application in your web browser at http://localhost:8501.
+5. Access the application in your web browser at http://localhost:8501.
 
 Made with ❤️ by 8shagrid
